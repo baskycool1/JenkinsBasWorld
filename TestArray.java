@@ -4,7 +4,7 @@ public class TestArray {
 
 		for (int i=1; i<=10; i++) {
 	  
-	  System.out.println("Size of second Array ... "  + i);
+	  System.out.println("Size of the all Array ... "  + i);
 	}
 
 }
