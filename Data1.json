@@ -1,0 +1,13 @@
+[
+
+{ "basendpoint" : "api/register/preprod",
+   "basemail" : "eve.holt@reqres.in",
+   "baspassword" : "pistol"
+},
+
+{ "basendpoint" : "api/register/preprod",
+   "basemail" : "bastest@reqres.in",
+   "baspassword" : "test1"
+}
+
+]
